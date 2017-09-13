@@ -61,7 +61,7 @@ kişisel site
 	<img src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\sonyxperiaz5.png" width="300" height="455"/>
 	<img src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\lgg5.png" width="400" height="420"/>
 	<embed src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\hosgeldiniz.gif" width="400" height="400"/></embed>
-	<embed src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\kampanya.gif" width="300" height="300"/></embed>
+	<embed src="https://www.google.com.tr/search?q=indirim+gifleri&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi7_oHJ8qHWAhUCPVAKHcwRDO0Q_AUICigB&biw=1366&bih=638#imgrc=uFU6Pdp8nvHH5M:" width="300" height="300"/></embed>
 	
 <table border="3" bgcolor="pink" align="left">
 
