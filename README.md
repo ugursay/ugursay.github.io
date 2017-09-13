@@ -1,1 +1,0 @@
-# ugursay.github.io
