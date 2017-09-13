@@ -125,7 +125,7 @@ kişisel site
 		</tr>
 		
 		<tr>
-			<td align="center" rowspan="1"><a href="https://www.google.com.tr/search?biw=1366&bih=638&tbm=isch&sa=1&q=sony+xperia+z3&oq=sony&gs_l=psy-ab.3.2.0l4.146954.147711.0.150284.4.4.0.0.0.0.98.372.4.4.0....0...1.1.64.psy-ab..0.4.371...0i67k1.mldM-7xc6k4#imgrc=QuQre7DM5hw-TM:"><img id="sony" src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\sonyxperiaz3.jpg" width="270" height="340"/></a></td>	<td align="center" rowspan="2" ><b><font size="7">SONY</font></b></td><td align="center"><b><font size="6">Z3</font></b></td><td align="center"><font size="5">1799 tl</font></td>
+			<td align="center" rowspan="1"><a href="<img src="http://cdn.vatanbilgisayar.com/UPLOAD/PRODUCT/SAMSUNG/thumb/v2-84407-2_large.jpg">"><img id="sony" src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\sonyxperiaz3.jpg" width="270" height="340"/></a></td>	<td align="center" rowspan="2" ><b><font size="7">SONY</font></b></td><td align="center"><b><font size="6">Z3</font></b></td><td align="center"><font size="5">1799 tl</font></td>
 		</tr>
 </table>
 </body>
